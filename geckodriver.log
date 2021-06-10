@@ -1584,3 +1584,37 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1623331767724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileIrcCZ1"
+1623331772998	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileIrcCZ1\\search.json.mozlz4", (void 0)))
+1623331782801	Marionette	INFO	Listening on port 54113
+1623331782880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623331783681	Marionette	INFO	Stopped listening on port 54113
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623331789264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileLtYf4Z"
+1623331794568	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileLtYf4Z\\search.json.mozlz4", (void 0)))
+1623331803806	Marionette	INFO	Listening on port 54160
+1623331804256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623331804834	Marionette	INFO	Stopped listening on port 54160
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623331810509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilejVpzNa"
+1623331815763	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilejVpzNa\\search.json.mozlz4", (void 0)))
+1623331825466	Marionette	INFO	Listening on port 54213
+1623331825592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623331826173	Marionette	INFO	Stopped listening on port 54213
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
