@@ -1357,3 +1357,230 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1622792656354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileGhcQfp"
+1622792661247	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileGhcQfp\\search.json.mozlz4", (void 0)))
+1622792670235	Marionette	INFO	Listening on port 61983
+1622792670346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792672266	Marionette	INFO	Stopped listening on port 61983
+[Parent 14376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622792678099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileCZjETS"
+1622792683222	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileCZjETS\\search.json.mozlz4", (void 0)))
+1622792694206	Marionette	INFO	Listening on port 62032
+1622792694492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792696454	Marionette	INFO	Stopped listening on port 62032
+[Parent 18352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622792702528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilerf12cw"
+1622792707435	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilerf12cw\\search.json.mozlz4", (void 0)))
+1622792716700	Marionette	INFO	Listening on port 62105
+1622792717174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792718501	Marionette	INFO	Stopped listening on port 62105
+1622792724078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilelHSfsk"
+1622792728690	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilelHSfsk\\search.json.mozlz4", (void 0)))
+1622792737722	Marionette	INFO	Listening on port 62157
+1622792738046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792739538	Marionette	INFO	Stopped listening on port 62157
+1622792810015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileoDqPq7"
+1622792814786	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileoDqPq7\\search.json.mozlz4", (void 0)))
+1622792823623	Marionette	INFO	Listening on port 62223
+1622792824017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792825915	Marionette	INFO	Stopped listening on port 62223
+[Parent 17712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622792831482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilenVg20M"
+1622792836079	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilenVg20M\\search.json.mozlz4", (void 0)))
+1622792846713	Marionette	INFO	Listening on port 62281
+1622792847134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792848984	Marionette	INFO	Stopped listening on port 62281
+[Parent 17940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622792854638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilewTZaKE"
+1622792859979	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilewTZaKE\\search.json.mozlz4", (void 0)))
+1622792868654	Marionette	INFO	Listening on port 62344
+1622792869238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792870571	Marionette	INFO	Stopped listening on port 62344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622792876010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilelsJTqU"
+1622792881191	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilelsJTqU\\search.json.mozlz4", (void 0)))
+1622792890227	Marionette	INFO	Listening on port 62396
+1622792890503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622792892011	Marionette	INFO	Stopped listening on port 62396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794150486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilezijmff"
+1622794155658	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilezijmff\\search.json.mozlz4", (void 0)))
+1622794166903	Marionette	INFO	Listening on port 52594
+1622794167147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794168909	Marionette	INFO	Stopped listening on port 52594
+[Parent 7804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794174641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile1AebZL"
+1622794179378	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile1AebZL\\search.json.mozlz4", (void 0)))
+1622794191487	Marionette	INFO	Listening on port 65077
+1622794191896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794194458	Marionette	INFO	Stopped listening on port 65077
+[Parent 2156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794200628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilevAmP7S"
+1622794206260	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilevAmP7S\\search.json.mozlz4", (void 0)))
+1622794217823	Marionette	INFO	Listening on port 65155
+1622794218401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794220087	Marionette	INFO	Stopped listening on port 65155
+[Parent 5460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622794226836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile5DoDFh"
+1622794232910	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile5DoDFh\\search.json.mozlz4", (void 0)))
+1622794245863	Marionette	INFO	Listening on port 65214
+1622794246415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794248147	Marionette	INFO	Stopped listening on port 65214
+1623317736189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilejv2Dgd"
+1623317742226	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilejv2Dgd\\search.json.mozlz4", (void 0)))
+1623317753091	Marionette	INFO	Listening on port 63371
+1623317753492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1623317756070	Marionette	INFO	Stopped listening on port 63371
+1623317762063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileZ77elU"
+1623317767174	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileZ77elU\\search.json.mozlz4", (void 0)))
+1623317776474	Marionette	INFO	Listening on port 63422
+1623317776600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1623317778467	Marionette	INFO	Stopped listening on port 63422
+[Parent 22880, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623317784200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofiledMv6G4"
+1623317789076	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofiledMv6G4\\search.json.mozlz4", (void 0)))
+1623317798165	Marionette	INFO	Listening on port 63475
+1623317798709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1623317799967	Marionette	INFO	Stopped listening on port 63475
+[Parent 1028, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623317805652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilersMNb7"
+1623317810648	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofilersMNb7\\search.json.mozlz4", (void 0)))
+1623317819934	Marionette	INFO	Listening on port 63525
+1623317820183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1623317821705	Marionette	INFO	Stopped listening on port 63525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623318081403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile7L4JTw"
+1623318086487	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile7L4JTw\\search.json.mozlz4", (void 0)))
+1623318096331	Marionette	INFO	Listening on port 63603
+1623318096434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623318101849	Marionette	INFO	Stopped listening on port 63603
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623318107783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileOr4ah8"
+1623318112830	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileOr4ah8\\search.json.mozlz4", (void 0)))
+1623318123115	Marionette	INFO	Listening on port 63656
+1623318123459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623318128988	Marionette	INFO	Stopped listening on port 63656
+1623318134621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile8Py4ZG"
+1623318139642	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofile8Py4ZG\\search.json.mozlz4", (void 0)))
+1623318148590	Marionette	INFO	Listening on port 63729
+1623318149114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623318154308	Marionette	INFO	Stopped listening on port 63729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623318345833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileO4aCwg"
+1623318350754	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileO4aCwg\\search.json.mozlz4", (void 0)))
+1623318359767	Marionette	INFO	Listening on port 63802
+1623318360346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623318365562	Marionette	INFO	Stopped listening on port 63802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623318371272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileJt1V0U"
+1623318376341	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileJt1V0U\\search.json.mozlz4", (void 0)))
+1623318385674	Marionette	INFO	Listening on port 63857
+1623318385813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623318391002	Marionette	INFO	Stopped listening on port 63857
+1623318396691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileXXcDhC"
+1623318401710	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krain\\AppData\\Local\\Temp\\rust_mozprofileXXcDhC\\search.json.mozlz4", (void 0)))
+1623318410734	Marionette	INFO	Listening on port 63923
+1623318411236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623318416462	Marionette	INFO	Stopped listening on port 63923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
